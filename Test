@@ -5,3 +5,4 @@ get_vowels("sky") # []
 get_vowels("football") # [o, o, a]
 get_vowels("football") # [o, o, a]
 ghgfh
+орапо
