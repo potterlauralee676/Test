@@ -1,4 +1,4 @@
-def get_vowels(String):оо
+кdef get_vowels(String):оо
     return [each for each in String if each in "aeiou"]
 get_vowels("animal") # [a, i, a]
 get_vowels("sky") # []
@@ -10,6 +10,6 @@ ghgfh
 555654654
 ыыы33
 фф
-65465465
+65465465ее
 вввв66
 sss
