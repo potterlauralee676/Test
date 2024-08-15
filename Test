@@ -1,5 +1,4 @@
-123get_vowels("sky") # []аа
-get_vowels("football") # [o, o,ввв a]ааавffв
+123get_vowels("football") # [o, o,ввв a]ааавffв
 get_vowels("football") # ss[ddo, o, a]66цыыыцыыы
 ghgfh55вввtttыыыsssыыыааавввыыыввв
 вввввваааsssввккк
